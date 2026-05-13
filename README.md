@@ -162,22 +162,24 @@ Frontend runs at `http://localhost:3000`
 
 ## How It Works
 Shopify store data
+
 ↓
 ProductContext
+
 ↓
-AI Simulator ──→ 4 personas × 3 questions = 12 simulations
+AI Simulator  ──→ 4 personas × 3 questions = 12 simulations
 
-    ↓
-Drift Detector ──→ same question × 5 phrasings = consistency score
+↓
+Drift Detector  ──→ same question × 5 phrasings = consistency score
 
-    ↓
-Gap Scorer ──→ weighted score across 5 dimensions
+↓
+Gap Scorer  ──→ weighted score across 5 dimensions
 
-    ↓
-Copy Rewriter ──→ LLM rewrites for every gap found
+↓
+Copy Rewriter  ──→ LLM rewrites for every gap found
 
-    ↓
-React Dashboard ──→ score, radar, gaps, before/after
+↓
+React Dashboard  ──→ score, radar, gaps, before/after
 
 ---
 
