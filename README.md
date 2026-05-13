@@ -96,6 +96,8 @@ storesignal/
 │   ├── technical_doc.md
 │   ├── decision_log.md
 
+```
+
 ---
 
 ## Setup Instructions
