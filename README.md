@@ -162,11 +162,9 @@ Frontend runs at `http://localhost:3000`
 
 ## How It Works
 Shopify store data
-
-    ↓
+↓
 ProductContext
-
-    ↓
+↓
 AI Simulator ──→ 4 personas × 3 questions = 12 simulations
 
     ↓
