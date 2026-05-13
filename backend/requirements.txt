@@ -4,3 +4,4 @@ httpx
 python-dotenv
 anthropic
 pydantic
+google-genai
