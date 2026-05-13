@@ -76,15 +76,24 @@ storesignal/
 
 ├── backend/
 
-│   ├── main.py              # FastAPI server — 4 endpoints
+│   ├── main.py   # FastAPI server — 4 endpoints
+
 │   ├── schema.py            # Shared data contracts
+
 │   ├── ingestion/
+
 │   │   ├── shopify.py       # Real Shopify API fetcher
+
 │   │   └── mock_shopify.py  # Mock data for demo
+
 │   ├── simulation/
+
 │   │   └── agent.py         # AI simulation + drift detection
+
 │   ├── scoring/
+
 │   │   └── scorer.py        # Gap scoring + impact ranking
+
 │   └── generation/
 │       └── suggester.py     # LLM copy rewriter
 ├── frontend/
