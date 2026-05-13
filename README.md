@@ -73,7 +73,9 @@ store and tells you exactly where AI agents fail — and how to fix it.
 ## Project Structure
 
 storesignal/
+
 ├── backend/
+
 │   ├── main.py              # FastAPI server — 4 endpoints
 │   ├── schema.py            # Shared data contracts
 │   ├── ingestion/
