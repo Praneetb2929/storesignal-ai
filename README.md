@@ -202,7 +202,7 @@ testing, and product direction.
 ## Links
 
 - 📹 Demo video: [add link]
-- 🔗 Live demo: localhost (see setup above)
+- 🔗 Live demo: Run locally using the setup instructions above
 - 📄 Product document: [docs/product_doc.md](docs/product_doc.md)
 - 📄 Technical document: [docs/technical_doc.md](docs/technical_doc.md)
 - 📄 Decision log: [docs/decision_log.md](docs/decision_log.md)
