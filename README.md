@@ -201,7 +201,7 @@ testing, and product direction.
 
 ## Links
 
-- 📹 Demo video: [add link]
+- 📹 Demo video: [https://www.loom.com/share/24d5f7ecfc5543fd875c3a9da9609fd3]
 - 🔗 Live demo: Run locally using the setup instructions above
 - 📄 Product document: [docs/product_doc.md](docs/product_doc.md)
 - 📄 Technical document: [docs/technical_doc.md](docs/technical_doc.md)
