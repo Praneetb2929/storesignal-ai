@@ -43,7 +43,7 @@ store and tells you exactly where AI agents fail — and how to fix it.
 
 ## Demo
 
-> 📹 [Demo video link — add YouTube link here]
+> 📹 [https://www.loom.com/share/24d5f7ecfc5543fd875c3a9da9609fd3]
 
 ### Screenshots
 
